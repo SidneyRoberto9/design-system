@@ -1,0 +1,2 @@
+import{A as t}from"./index-6824e866.js";import"./index-43ec82a8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-648f2948.js";import"./jsx-runtime-1becbe17.js";const e={title:"Data Display/Avatar",component:t,args:{src:"https://avatars.githubusercontent.com/u/42591237?v=4",alt:"Sidney Roberto"},argTypes:{src:{control:{type:"text"}}}},c={},p={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,p as WithFallback,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories-4c26f7fe.js.map
