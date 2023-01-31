@@ -8,6 +8,11 @@
     "build": "build-storybook",
     "deploy-storybook": "storybook-to-ghpages"
   },
+  "storybook-deployer": {
+    "gitUsername": "SidneyRoberto9",
+    "gitEmail": "sidneyrpsilva@gmail.com",
+    "commitMessage": "Deploy Storybook to GitHub Pages"
+  },
   "devDependencies": {
     "@babel/core": "^7.20.12",
     "@storybook/addon-actions": "^6.5.16",
