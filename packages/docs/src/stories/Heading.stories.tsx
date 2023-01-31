@@ -1,4 +1,4 @@
-import { Heading, TextProps } from "@ignite-ui/react";
+import { Heading, TextProps } from "@sid-ui/react";
 import { Meta, StoryObj } from "@storybook/react";
 
 export default {

@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@sid-ui/docs",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -28,9 +28,9 @@
     "vite": "^4.0.4"
   },
   "dependencies": {
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@sid-ui/react": "*",
+    "@sid-ui/tokens": "*",
+    "@sid-ui/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.16",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",

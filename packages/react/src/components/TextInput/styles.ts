@@ -1,4 +1,4 @@
-import { fontSizes } from "@ignite-ui/tokens";
+import { fontSizes } from "@sid-ui/tokens";
 
 import { styled } from "../../styles";
 

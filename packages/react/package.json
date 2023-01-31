@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@sid-ui/react",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -11,9 +11,9 @@
     "lint": "eslint src/**/*.{ts,tsx} --ext .ts,.tsx --fix"
   },
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@sid-ui/eslint-config": "*",
+    "@sid-ui/tokens": "*",
+    "@sid-ui/ts-config": "*",
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
     "react": "^18.2.0",
